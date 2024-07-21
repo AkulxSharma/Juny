@@ -202,6 +202,12 @@ label {
 button {
   border-radius: 0; }
 
+.btn:hover{
+  color: #313c85 !important;
+  background-color: white !important;
+}
+
+
 button:focus {
   outline: 1px dotted;
   outline: 5px auto -webkit-focus-ring-color; }
